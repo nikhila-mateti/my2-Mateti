@@ -22,3 +22,32 @@ Below table describes the games that I alaways show interest to play such as Ten
 
 >We do not have the fantasy of competing with any superpower. We have enough problems of our own to deal with. *~Vikram Sarabhai*
 
+## Code Snippet
+>How to use sass string replace in data:image string?
+[Stackoverflow](https://stackoverflow.com/questions/61619053/how-to-use-sass-string-replace-in-dataimage-string)
+
+```
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+  
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+  }
+  
+  @return $string;
+}
+```
+Usage:
+```
+.selector {
+  $string: 'The answer to life the universe and everything is 42.';
+  content: str-replace($string, 'e', 'xoxo');
+}
+```
+Result:
+```
+.selector {
+  content: "Thxoxo answxoxor to lifxoxo thxoxo univxoxorsxoxo and xoxovxoxorything is 42.";
+}
+```
+[String Replace Function](https://css-tricks.com/snippets/sass/str-replace-function/)
