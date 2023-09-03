@@ -14,3 +14,11 @@ Below table describes the games that I alaways show interest to play such as Ten
 |Badminton| I like badminton because it offers a fun and accessible way to stay physically active, fosters social interaction, provides mental stimulation through strategy, can be played indoors or outdoors| 8 hrs|
 |Volley Ball|I like volleyball because it's a team-oriented sport that promotes physical activity, communication, and cooperation.Volleyball also offers a fast-paced, exciting game that's both fun to play and watch.|3 hrs|
 |Ping Pong| It's easy to set up and play, making it accessible to people of all ages. Ping pong can be enjoyed both recreationally and competitively, providing a fun way to stay active and improve hand-eye coordination.| 5 hrs|
+
+---
+
+## Quotations By Scientists
+>Remember to look up at the stars and not down at your feet. *~Stephen Hawking*<br>
+
+>We do not have the fantasy of competing with any superpower. We have enough problems of our own to deal with. *~Vikram Sarabhai*
+
