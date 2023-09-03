@@ -8,3 +8,11 @@ Besides natural charm and unparalleled beauty, Manali is known for its unlimited
 
 ### **Manali is a place where the beauty of nature leaves you in awe.**<br>
 ### **Manali is not just a destination, it's a paradise for adventure enthusiasts.**
+
+---
+
+# Adventurous Activities
+1. Trekking
+1. Hikking
+1. Rock Climbing 
+3. Zorbing
