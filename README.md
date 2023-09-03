@@ -20,3 +20,6 @@ Besides natural charm and unparalleled beauty, Manali is known for its unlimited
 * Babru
 * Chha Ghost
 * Tudkiya Bhat
+
+
+[MyStats](MyStats.md)
