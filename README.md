@@ -11,8 +11,12 @@ Besides natural charm and unparalleled beauty, Manali is known for its unlimited
 
 ---
 
-# Adventurous Activities
+## Adventurous Activities
 1. Trekking
 1. Hikking
 1. Rock Climbing 
 3. Zorbing
+
+* Babru
+* Chha Ghost
+* Tudkiya Bhat
